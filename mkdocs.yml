@@ -44,10 +44,10 @@ nav:
   - Documentation:
     - documentation/index.md
     - Software:
-        - Laser Setup: documentation/software/laser_setup_repo/README.md
+        - Laser Setup: https://nanolab.cl/laser_setup/
     - Hardware:
-        - Clicker: documentation/hardware/clicker_repo/README.md
-        - Temperature Sensor v1: documentation/hardware/temp_sensor_v1_repo/README.md
+        - Clicker: https://nanolab.cl/clicker_instrument/
+        - Temperature Sensor v1: https://nanolab.cl/temperature_sensor/
  
 markdown_extensions:
   - attr_list
